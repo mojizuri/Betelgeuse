@@ -1,0 +1,10 @@
+Betelgeuse.cmp	Component side data
+Betelgeuse.drd	Excellon drill description
+Betelgeuse.dri	Excellon drill tool description
+Betelgeuse.out	Outline data
+Betelgeuse.plc	Component side silk screen data
+Betelgeuse.sol	Solder side data
+Betelgeuse.stc	Component side solder stop mask data
+Betelgeuse.sts	Solder side solder stop mask data
+Betelgeuse.gpi	Photoplotter Info File
+Betelgeuse.txt	this file
